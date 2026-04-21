@@ -6,12 +6,24 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Personnel"
+      href: personel.html
     - text: "Research"
       href: research.html
-    - text: "Work Experience"
-      href: work_experience.html
-    - text: "Animal Experience"
-      href: animal_experience.html
+      menu:
+      - text: "Current Research"
+        href: current_research.html
+      - text: "Past Research"
+        href: past_research.html
+    - text: "Experiences"
+      href: experiences.html
+      menu:
+      - text: "Work Experience"
+        href: work_experience.html
+      - text: "Animal Experience"
+        href: animal_experience.html
+      - text: "Volunteer Experience"
+        href: volunteer_experiences.html
 
 output:
   html_document:
