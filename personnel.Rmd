@@ -1,5 +1,38 @@
 ---
-title: "personel"
-output: html_document
+title: "Personnel"
+output: 
+  html_document:
+    theme: flatly 
+    highlight: tango 
 ---
 
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+
+<div style="flex: 1; padding-right: 20px;">
+<img src="images/holding_frog.jpg" width="200" style="border-radius: 10px;">
+</div>
+
+<div style="flex: 2;">
+## Sidney Goedeker
+
+Short bio about you. Include your interests, research focus, career goals, etc.
+
+</div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+
+<div style="flex: 1; padding-right: 20px;">
+<img src="images/Weston.jpg" width="200" style="border-radius: 10px;">
+</div>
+
+<div style="flex: 2;">
+## Weston
+
+Short description about Weston—role, experience, etc.
+
+</div>
+
+</div>

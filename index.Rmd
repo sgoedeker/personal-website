@@ -1,6 +1,5 @@
 ---
-title: "Sidney Goedeker"
-subtitle: "Experiences in research and animal handling"
+title: "Sidney's Website"
 date: "`r format(Sys.Date(), '%d %B %Y')`"
 output: 
   html_document:
@@ -10,6 +9,49 @@ output:
 ---
 ## About this website
 
-
+This website is made to show research projects by Sidney Goedeker at the University of Nevada, Reno. For peers and collaborators, navigate to research tab, and on the "Current Research" tab will be updated research projects. On the "Past Research" tab will be past projects and publication under the appropiate projects.    
 
 ---
+
+<style>
+.scroll-gallery {
+  display: flex;
+  overflow-x: auto;
+  gap: 15px;
+  padding-bottom: 10px;
+}
+
+.scroll-gallery img {
+  flex: 0 0 30%;   /* controls how many show at once (~3) */
+  max-width: 30%;
+  border-radius: 10px;
+  object-fit: cover;
+  height: 200px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.scroll-gallery img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* optional: nicer scrollbar */
+.scroll-gallery::-webkit-scrollbar {
+  height: 8px;
+}
+.scroll-gallery::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+</style>
+
+<div class="scroll-gallery">
+
+<img src="images/weston_sidney.jpg">
+<img src="images/frog1.jpg">
+<img src="images/frog2.jpg">
+<img src="images/frog3.jpg">
+<img src="images/heart_puncture.jpg">
+<img src="images/bird.jpg">
+
+</div>
