@@ -1,5 +1,34 @@
 ---
 title: "past_research"
-output: html_document
+output: 
+  html_document:
+    theme: flatly 
+    highlight: tango
 ---
 
+# Past Research
+
+## Project: Amphibian Disease Immunology
+
+Short 1–2 sentence description of the project.
+
+### Publications
+
+- **Smith, S., Goedeker, S., et al. (2024). Title of paper here. _Journal Name_.**  
+  DOI: [https://doi.org/xx.xxxx/xxxxx](https://doi.org/xx.xxxx/xxxxx) 
+  ⭐ Highlight: Featured in journal spotlight article
+
+- **Goedeker, S., et al. (2023). Another paper title. _Journal Name_.**  
+  DOI: [https://doi.org/xx.xxxx/xxxxx](https://doi.org/xx.xxxx/xxxxx)  
+
+---
+
+## Project: AI for Infectious Disease Prediction
+
+Brief description of this project.
+
+### Publications
+
+- **Doe, J., Goedeker, S. (2022). Paper title. _Journal Name_.**  
+  DOI: [https://doi.org/xx.xxxx/xxxxx](https://doi.org/xx.xxxx/xxxxx) 
+  ⭐ Highlight: Presented at international conference

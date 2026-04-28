@@ -1,5 +1,43 @@
 ---
 title: "current_research"
-output: html_document
+output: 
+  html_document:
+    theme: flatly 
+    highlight: tango
 ---
 
+<div style="display: flex; gap: 15px; margin-bottom: 30px;">
+
+<img src="images/heart_puncture.jpg" style="width: 32%; border-radius: 10px; object-fit: cover;">
+<img src="images/cardiocentesis.jpg" style="width: 32%; border-radius: 10px; object-fit: cover;">
+
+</div>
+
+## Projects
+
+### Project 1: How temperature affect complement inhibition? 
+
+**Overview:**  
+Brief description of your project—what problem you're studying and why it matters.
+
+**Methods:**  
+- Flow cytometry  
+- ELISA  
+- In vivo infection models  
+
+**Goal:**  
+What you’re trying to discover or prove.
+
+---
+
+### Project 2: Complement Activation In Vivo
+
+**Overview:**  
+Short description of the project.
+
+**Methods:**  
+- Satellite data analysis  
+- Machine learning models  
+
+**Goal:**  
+What impact this research could have.
