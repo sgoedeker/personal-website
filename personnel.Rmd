@@ -10,7 +10,7 @@ output:
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
 
 <div style="flex: 1; padding-right: 20px;">
-<img src="images/holding_frog.jpg" width="200" style="border-radius: 10px;">
+<img src="images/holding_frog.JPG" width="200" style="border-radius: 10px;">
 </div>
 
 <div style="flex: 2;">
