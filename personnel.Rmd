@@ -16,7 +16,9 @@ output:
 <div style="flex: 2;">
 ## Sidney Goedeker
 
-I am a graduate from Hanover College with a Bachelor of Science in Biology and minor in Chemistry. I am currently pursuing a master of science in Ecology, Evolution, and Conservation Biology. I study amphibian immune responses to Chytridiomycosis, which is a fungal pathogen caused by *Batrachochytrium dendrobatidis*. I have a big interest in immunology, disease ecology, and host-pathogen interactions. 
+I am a graduate from Hanover College with a Bachelor of Science in Biology and minor in Chemistry. I am currently pursuing a master of science in Ecology, Evolution, and Conservation Biology. I study amphibian immune responses to Chytridiomycosis, which is a fungal pathogen caused by *Batrachochytrium dendrobatidis*. I have a big interest in immunology, disease ecology, and host-pathogen interactions.
+
+Contact: sgoedeker@unr.edu
 
 </div>
 

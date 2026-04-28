@@ -1,34 +1,44 @@
 ---
-title: "past_research"
+title: "Past Research"
 output: 
   html_document:
     theme: flatly 
     highlight: tango
 ---
 
-# Past Research
+## Project: Spider Orientation and Visual Cues
 
-## Project: Amphibian Disease Immunology
-
-Short 1–2 sentence description of the project.
+This project was conducted on *Tetragnetha elongata* a riparian arachnid species. I looked at the orientation behavior when displaced on the surface of the water. The project was farther expanded when I looked at the visual cue necessary for the spiders to detect shoreline when displaced on the surface of the water. 
 
 ### Publications
 
-- **Smith, S., Goedeker, S., et al. (2024). Title of paper here. _Journal Name_.**  
-  DOI: [https://doi.org/xx.xxxx/xxxxx](https://doi.org/xx.xxxx/xxxxx) 
-  ⭐ Highlight: Featured in journal spotlight article
+- **Sidney J. Goedeker, Theresa E. Wrynn, Brian G. Gall. (2021). Orientation behavior of riparian long-jawed orb weavers (*Tetragnetha elongata*) after displacement over water. _Ecology and Evolution_.**  
 
-- **Goedeker, S., et al. (2023). Another paper title. _Journal Name_.**  
-  DOI: [https://doi.org/xx.xxxx/xxxxx](https://doi.org/xx.xxxx/xxxxx)  
+- **Sidney J. Goedeker, Nettie A. Eigel, Maddie Mann, Samantha DiBiasio, and Brian G. Gall. (2023). Land Ho! Polarized Light Serves as a Visual Signal for Landward Orientation in Displaced Spiders _Zoology_.**  
+⭐ Highlight: Fcience News on 19 December 2023  (https://www.sciencenews.org/article/spiders-water-navigate-light-find-land)
 
 ---
 
-## Project: AI for Infectious Disease Prediction
+## Project: Predator-prey interactions between chorus frogs and predatory-burrowing crayfish
 
-Brief description of this project.
+This is a project that looks at the interaction between predatory-burrowing crayfish (*Lacunicambarus chimera*) and chorus frogs (*Pseudacris triseriata*) at multiple life stages. 
 
 ### Publications
 
-- **Doe, J., Goedeker, S. (2022). Paper title. _Journal Name_.**  
-  DOI: [https://doi.org/xx.xxxx/xxxxx](https://doi.org/xx.xxxx/xxxxx) 
-  ⭐ Highlight: Presented at international conference
+- **Sidney J. Goedeker, Nettie A. Eigel, and Brian G. Gall. (2026). Hatching Plasticity and embryonic learning in chorus frog (*Pseudacris triseriata*) embryos in response to predatory burrowing crayfish (*Lacunicambarus chimera*). _Ethology, Ecology, & Evolution_ In review**  
+  
+- **Nettie A. Eigel, Sidney J. Goedeker, and Brian G. Gall. (2026). From vulnerable to evasive: Ontogenetic shift in crayfish predation risk across chorus frog (Pseudacris triseriata) life stages. Ethology, Ecology, & Evolution. In review**
+
+---
+
+## Project: Vaccine development in mouse models
+
+This work was done at the University of Louisville, where I studied vaccine development in different mouse model species.  
+
+### Publications
+
+- **Irina Tretyakova, Joongho Joh, Igor S Lukashevich, Brian Alejandro, Jennifer Kraenzle, Ava Pignataro, Sidney Goedeker, Donghoon Chung, and Peter Pushko. (2024). Live-attenuated CHIKV vaccine with rearranged genome replicates in vitro and induces immune response in mice. _PLOS Neglected Tropical Diseases_**  
+  
+- **Adrian Centers, Koji Barnaby, Sidney Goedeker, Ava Pignataro, Irina Tretyakova, Igor Lukashevich, Peter Pushko, and Donghoon Chung. (2025). V4020 Venezuelan Equine Encephalitis Vaccine: Mitigating Neuroinvasion and Reversion Through Rational Design. _Viruses_**
+
+---
