@@ -7,7 +7,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Personnel"
-      href: personel.html
+      href: personnel.html
     - text: "Research"
       menu:
       - text: "Current Research"
